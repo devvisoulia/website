@@ -1,4 +1,5 @@
-# CindyJS web site
+# CindyJS web site the best website of the world
+# its phoenix to use 
 
 This repository contains the sources from which
 [the CindyJS web site](http://cindyjs.org/) is built.
