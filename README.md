@@ -1,9 +1,10 @@
-# CindyJS web site
+# CindyJS web site the best website of the world
+# its phoenix to use 
 
 This repository contains the sources from which
 [the CindyJS web site](http://cindyjs.org/) is built.
 If there is something wrong with the content on that web site,
-feel free to
+feel free to tell me so that we can grow together
 [file an issue with this repository](https://github.com/CindyJS/website/issues),
 or formulate a pull request.
 Note that most pages will come with an edit link in the bottom right corner.
